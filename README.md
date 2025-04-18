@@ -28,4 +28,4 @@ pip install pandas numpy matplotlib plotly scikit-learn).
 
 ## Resultados
 
-Los resultados del análisis se presentan, incluyendo gráficos y tablas. Se recomienda al Sr. Joao evitar vender la Tienda 2, ya que presenta el peor desempeño en términos de facturación, calificación del cliente y costo de envío.
+Los resultados del análisis se presentan, incluyendo gráficos y tablas. Se recomienda al Sr. Joao vender la Tienda 4, ya que presenta el peor desempeño en términos de facturación, calificación del cliente y costo de envío.
